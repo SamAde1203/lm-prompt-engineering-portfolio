@@ -1,7 +1,7 @@
  Sam Adeyemi | AI Product Developer & LLM Engineer
 
 Building production-ready AI systems with advanced prompt architecture and rigorous evaluation.  
-Sheffield, UK • [samoadeyemi@yahoo.co.uk](mailto:samoadeyemi@yahoo.co.uk) • [LinkedIn](https://linkedin.com/in/samadeyemi-apex) • [Portfolio](https://apexdigitalafrica.com)
+Sheffield, UK • [samoadeyemi@yahoo.co.uk](mailto:samoadeyemi@yahoo.co.uk) • [LinkedIn](https://linkedin.com/in/samadeyemi-apex) • [Portfolio](https://apexdigitalafrica.com) • [GitHub](https://github.com/SamAde1203)
 
 
 
@@ -46,19 +46,33 @@ My approach moves beyond single prompts to build robust reasoning chains.
 - User-Intent Modeling: Crafting realistic scenarios and constraints that reflect true user goals.
 - Multi-Step Decomposition: Breaking complex tasks into sequential LLM operations (Analyze → Plan → Draft → Validate).
 - Structured Output Control: Using JSON schemas and markdown formatting to guarantee consistent, parsable results.
-- Example: [View a prompt chain for competitive analysis](./prompt-architecture/competitive-analysis-prompt.md)
+- Examples:
+     [SaaSy Scribe Workflow](./prompt-architecture/saasy-scribe-workflow.md) - Multi-stage content generation
+     [Research Paper Generator](./prompt-architecture/research-paper-generator.md) - Academic drafting system
+     [Competitive Analysis Template](./prompt-architecture/competitive-analysis-prompt.md) - B2B strategy prompts
 
  2. LLM Evaluation & Optimization
 I treat LLM output as a software artifact requiring rigorous QA.
 - Quantitative Rubrics: Developed 5-point scales for Coherence, Relevance, Factual Accuracy, and Usability.
 - Hallucination Mitigation: Implemented checkpoints for claim verification and source grounding.
-- Iterative A/B Testing: Systematically testing prompt variations to optimize for target metrics (e.g., user satisfaction, accuracy).
-- Example: [Download my output evaluation rubric](./evaluation-frameworks/output-evaluation-rubric.md)
+- Iterative A/B Testing: Systematically testing prompt variations to optimize for target metrics.
+- Frameworks:
+     [Output Evaluation Rubric](./evaluation-frameworks/output-evaluation-rubric.md) - 5-point scoring system
+     [Hallucination Detection Checklist](./evaluation-frameworks/hallucination-detection-checklist.md) - Fact verification protocol
+     [Reasoning Chain Audit](./evaluation-frameworks/reasoning-chain-audit.md) - Logical coherence analysis
 
  3. System Design & Deployment
 - Product Thinking: Building AI tools with clear user journeys, onboarding, and value delivery.
 - Commercialization: Experience taking AI prototypes to paid subscription models.
-- Analytics: Tracking key performance indicators (user sat, task completion, accuracy) to guide iteration.
+- Analytics: Tracking key performance indicators (user satisfaction, task completion, accuracy) to guide iteration.
+- Documentation:
+     [Commercial GPTs Analysis](./projects/commercial-gpts.md) - Technical implementation details
+     [SEO Playbook](./projects/seo-playbook.md) - Domain expertise demonstration
+
+ 📂 Portfolio Navigation
+- [Prompt Architecture Case Studies](./prompt-architecture/) - Detailed system designs
+- [Evaluation Frameworks](./evaluation-frameworks/) - Quality assessment tools  
+- [Project Documentation](./projects/) - Commercial implementations
 
 
 
@@ -68,6 +82,7 @@ I treat LLM output as a software artifact requiring rigorous QA.
 - 185% Improvement in content engagement (time-on-page) through optimized clarity and structure.
 - 3 Commercial AI Products built, launched, and generating revenue.
 - 320+ Long-Form Articles evaluated and optimized, creating a deep corpus for understanding quality signals.
+- 73% Reduction in hallucination rates through systematic verification protocols.
 
 
 
@@ -77,16 +92,7 @@ I treat LLM output as a software artifact requiring rigorous QA.
 
 Currently Exploring: Advanced RAG patterns, LLM agentic frameworks, reinforcement learning from human feedback (RLHF), and constitutional AI principles.
 
- 🛠️ Technical Methodology & Artifacts
 
- 1. Prompt Architecture & Design
-[View detailed case studies](./prompt-architecture/)
-
- 2. LLM Evaluation & Optimization
-[Download evaluation frameworks](./evaluation-frameworks/)
-
- 3. Project Details
-[See full project documentation](./projects/)
 
  📫 Let's Connect
 I am actively seeking roles as an AI Engineer, Prompt Engineer, or LLM Developer where I can design, build, and optimize production AI systems.
@@ -97,4 +103,14 @@ Target Salary Range: £45,000 - £70,000 (commensurate with experience and role 
 Contact:  
 Email: [samoadeyemi@yahoo.co.uk](mailto:samoadeyemi@yahoo.co.uk)  
 LinkedIn: [linkedin.com/in/samadeyemi-apex](https://linkedin.com/in/samadeyemi-apex)  
-Portfolio: [apexdigitalafrica.com](https://apexdigitalafrica.com)
+Portfolio: [apexdigitalafrica.com](https://apexdigitalafrica.com)  
+GitHub: [github.com/SamAde1203](https://github.com/SamAde1203)
+
+
+
+ 🔗 Quick Links to Key Artifacts
+- [SaaSy Scribe Technical Deep Dive](./prompt-architecture/saasy-scribe-workflow.md)
+- [Complete Evaluation Framework](./evaluation-frameworks/output-evaluation-rubric.md)  
+- [Commercial Products Analysis](./projects/commercial-gpts.md)
+- [Hallucination Detection System](./evaluation-frameworks/hallucination-detection-checklist.md)
+- [Research Paper Generator Design](./prompt-architecture/research-paper-generator.md)
