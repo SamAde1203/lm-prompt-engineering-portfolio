@@ -1,143 +1,91 @@
- Sam Adeyemi - Prompt Engineering & LLM Training Portfolio
+ Sam Adeyemi | AI Product Developer & LLM Engineer
 
- 👋 About Me
-
-AI Product Developer and LLM Trainer with MSc Software Engineering (Distinction) and 5+ years building, evaluating, and optimizing AI systems. Creator of 3 commercial GPTs serving enterprise clients with 92% satisfaction rates.
-
-Specializations:
-- Advanced prompt engineering & chain-of-thought design
-- LLM output evaluation & quality optimization
-- AI model behavior analysis & red-teaming
-- Production-ready AI system deployment
+Building production-ready AI systems with advanced prompt architecture and rigorous evaluation.  
+Sheffield, UK • [samoadeyemi@yahoo.co.uk](mailto:samoadeyemi@yahoo.co.uk) • [LinkedIn](https://linkedin.com/in/samadeyemi-apex) • [Portfolio](https://apexdigitalafrica.com)
 
 
 
- 🚀 Commercial AI Products
+ 👨‍💻 Technical Profile
 
- [SaaSy Scribe ELITE](https://saasyscribepro.com)
-Production GPT | $197/month subscription
-- Generates 3,000-4,000 word SEO-optimized content
-- Engineered multi-step prompt architecture for full content workflow
-- 92% user satisfaction | Top-3 Google rankings
-- Tech Stack: OpenAI GPT-4, custom prompt chains, structured outputs
+AI Product Developer with an MSc in Software Engineering (Distinction) and 5+ years of experience specializing in the design, training, and deployment of Large Language Model (LLM) applications. I engineer reliable, multi-step prompt systems that transform complex user intent into high-quality, structured outputs for commercial use.
 
- SaaSy Scribe Pro
-B2B Content Strategy System
-- Competitive analysis, content briefs, ROI tracking
-- 4.6/5 average rating from enterprise teams
-- Structured reasoning for lead-generation content
+Core Competencies: Prompt Engineering & Chain-of-Thought Design • LLM Output Evaluation & Optimization • AI Product Development • RAG & Agentic Workflow Design • Commercial SaaS Deployment
 
- ResearchWriter Pro 4000
-Academic Drafting Engine
-- 3,500-4,000 word research papers with citations
-- 89% accuracy rate | Reduces drafting time by 85%
-- Complex multi-turn conversation design
+Technical Stack: OpenAI GPT-4/3.5 API, Custom GPTs, Claude, Gemini • Python (API Integration, Automation) • Prompt Versioning (Git) • Structured Outputs (JSON, Markdown) • SEO/SERP Analysis Tools
 
 
 
- 💡 Prompt Engineering Methodology
+ 🚀 Featured Projects: Commercial AI Products
 
- My Approach to LLM Training:
-1. User-Intent Modeling - Create realistic scenarios that match actual user needs
-2. Structured Reasoning - Build multi-step chains-of-thought for complex tasks
-3. Output Validation - Implement fact-checking and consistency analysis
-4. Iterative Refinement - A/B test prompts and optimize based on metrics
-5. Edge Case Testing - Red-team for hallucinations, bias, and logic errors
+ [SaaSy Scribe ELITE](https://saasyscribepro.com) | Production Content Engine
+   Role: Sole Developer & Prompt Architect
+   Description: A commercial GPT ($197/month subscription) that autonomously generates 3,000-4,000 word, SEO-optimized long-form articles. The system replaces a full content workflow.
+   Technical Implementation:
+       Engineered a multi-stage prompt architecture handling keyword strategy, outline generation, section drafting, fact integration, and meta-creation.
+       Designed for structured, consistent outputs to ensure publish-ready quality.
+       Integrated SERP analysis and E-E-A-T framing directly into the prompt chain.
+   Results: 92% user satisfaction, top-3 Google rankings for client content, 85% reduction in content production time.
 
- Key Metrics I Track:
-- Output coherence & relevance scores
-- Hallucination detection rates
-- User satisfaction (4.6/5 avg across products)
-- Task completion accuracy (89%+ on complex tasks)
-- Response quality consistency
+ ResearchWriter Pro 4000 | Academic Drafting Engine
+   Role: Developer & Reasoning Specialist
+   Description: An AI system that produces 3,500-4,000 word academic research drafts with proper citations and critical analysis.
+   Technical Implementation:
+       Built complex multi-turn conversation designs to manage research depth and citation tracking.
+       Implemented validation steps to reduce hallucination and improve factual accuracy to 89%.
+       Structured prompts to enforce academic tone, logical flow, and argument coherence.
+   Results: Reduced research drafting time from 8+ hours to ~45 minutes.
 
-
-
- 🛠️ Technical Skills
-
-LLM Development & Training:
-- Prompt engineering for GPT-3.5, GPT-4, Claude, Gemini
-- Chain-of-thought reasoning design
-- Few-shot learning optimization
-- Output ranking & evaluation frameworks
-- Red-teaming & safety testing
-
-Tools & Platforms:
-- OpenAI API & GPT Builder
-- ChatGPT Pro, Claude, Gemini
-- Python (for API integration & automation)
-- Git/GitHub for version control
-- Markdown, JSON for structured data
-
-Content & SEO:
-- Surfer SEO, Ahrefs, SEMrush
-- E-E-A-T framework implementation
-- Keyword research & content optimization
-- Analytics & performance tracking
+[View full project details and case studies](./projects/commercial-gpts.md)
 
 
 
- 📊 Portfolio Highlights
+ 🛠️ Technical Methodology & Artifacts
 
- Prompt Templates
-[Coming Soon] - Structured prompt templates for:
-- Long-form content generation
-- Competitive analysis
-- Research synthesis
-- Academic writing
-- Technical documentation
+ 1. Prompt Architecture & Design
+My approach moves beyond single prompts to build robust reasoning chains.
+- User-Intent Modeling: Crafting realistic scenarios and constraints that reflect true user goals.
+- Multi-Step Decomposition: Breaking complex tasks into sequential LLM operations (Analyze → Plan → Draft → Validate).
+- Structured Output Control: Using JSON schemas and markdown formatting to guarantee consistent, parsable results.
+- Example: [View a prompt chain for competitive analysis](./prompt-architecture/competitive-analysis-prompt.md)
 
- Evaluation Frameworks
-[Coming Soon] - My systems for:
-- Rating LLM outputs (1-5 scale with rubrics)
-- Detecting hallucinations & factual errors
-- Assessing reasoning quality
-- Measuring user-intent alignment
+ 2. LLM Evaluation & Optimization
+I treat LLM output as a software artifact requiring rigorous QA.
+- Quantitative Rubrics: Developed 5-point scales for Coherence, Relevance, Factual Accuracy, and Usability.
+- Hallucination Mitigation: Implemented checkpoints for claim verification and source grounding.
+- Iterative A/B Testing: Systematically testing prompt variations to optimize for target metrics (e.g., user satisfaction, accuracy).
+- Example: [Download my output evaluation rubric](./evaluation-frameworks/output-evaluation-rubric.md)
 
- Case Studies
-[Coming Soon] - Before/after examples showing:
-- Prompt optimization results
-- Output quality improvements
-- Real client outcomes
+ 3. System Design & Deployment
+- Product Thinking: Building AI tools with clear user journeys, onboarding, and value delivery.
+- Commercialization: Experience taking AI prototypes to paid subscription models.
+- Analytics: Tracking key performance indicators (user sat, task completion, accuracy) to guide iteration.
 
 
 
- 📈 Results & Impact
-
-- 320+ long-form articles evaluated and optimized
-- 3 commercial AI products deployed and generating revenue
-- 92% user satisfaction across GPT products
-- 185% improvement in content engagement metrics
-- 85% time reduction in content production workflows
-
-
-
- 📫 Connect With Me
-
-- Email: samoadeyemi@yahoo.co.uk
-- LinkedIn: [linkedin.com/in/samadeyemi-apex](https://linkedin.com/in/samadeyemi-apex)
-- Portfolio: [apexdigitalafrica.com](https://apexdigitalafrica.com)
-- Location: Sheffield, United Kingdom
+ 📈 Impact & Metrics
+- 92% User Satisfaction across deployed GPT products.
+- 89%+ Task Accuracy on complex, multi-step generation tasks (academic writing, strategic content).
+- 185% Improvement in content engagement (time-on-page) through optimized clarity and structure.
+- 3 Commercial AI Products built, launched, and generating revenue.
+- 320+ Long-Form Articles evaluated and optimized, creating a deep corpus for understanding quality signals.
 
 
 
- 🎓 Education
+ 📚 Education & Continuous Learning
+- MSc Information Security & Software Engineering | University of Greater Manchester (Distinction, 2025)
+- BEng (Hons) Software Engineering | University of Greater Manchester (First Class, 2024)
 
-MSc Information Security & Software Engineering - Distinction (2025)  
-University of Greater Manchester
-
-BEng (Hons) Software Engineering - First Class (2024)  
-University of Greater Manchester
+Currently Exploring: Advanced RAG patterns, LLM agentic frameworks, reinforcement learning from human feedback (RLHF), and constitutional AI principles.
 
 
 
- 🔍 Currently Exploring
+ 📫 Let's Connect
+I am actively seeking roles as an AI Engineer, Prompt Engineer, or LLM Developer where I can design, build, and optimize production AI systems.
 
-- Advanced RLHF (Reinforcement Learning from Human Feedback) techniques
-- Constitutional AI and alignment strategies
-- Multi-modal prompt engineering (text + image + code)
-- Agentic AI system design
+Open to: Full-time, contract, or advisory roles.  
+Target Salary Range: £45,000 - £70,000 (commensurate with experience and role scope).
 
-
-
-This portfolio showcases my approach to building, evaluating, and optimizing large language models. All work represents real commercial products and production systems.
+Contact:  
+Email: [samoadeyemi@yahoo.co.uk](mailto:samoadeyemi@yahoo.co.uk)  
+LinkedIn: [linkedin.com/in/samadeyemi-apex](https://linkedin.com/in/samadeyemi-apex)  
+Portfolio: [apexdigitalafrica.com](https://apexdigitalafrica.co)
