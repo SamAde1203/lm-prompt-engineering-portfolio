@@ -77,7 +77,16 @@ I treat LLM output as a software artifact requiring rigorous QA.
 
 Currently Exploring: Advanced RAG patterns, LLM agentic frameworks, reinforcement learning from human feedback (RLHF), and constitutional AI principles.
 
+ 🛠️ Technical Methodology & Artifacts
 
+ 1. Prompt Architecture & Design
+[View detailed case studies](./prompt-architecture/)
+
+ 2. LLM Evaluation & Optimization
+[Download evaluation frameworks](./evaluation-frameworks/)
+
+ 3. Project Details
+[See full project documentation](./projects/)
 
  📫 Let's Connect
 I am actively seeking roles as an AI Engineer, Prompt Engineer, or LLM Developer where I can design, build, and optimize production AI systems.
@@ -88,4 +97,4 @@ Target Salary Range: £45,000 - £70,000 (commensurate with experience and role 
 Contact:  
 Email: [samoadeyemi@yahoo.co.uk](mailto:samoadeyemi@yahoo.co.uk)  
 LinkedIn: [linkedin.com/in/samadeyemi-apex](https://linkedin.com/in/samadeyemi-apex)  
-Portfolio: [apexdigitalafrica.com](https://apexdigitalafrica.co)
+Portfolio: [apexdigitalafrica.com](https://apexdigitalafrica.com)
